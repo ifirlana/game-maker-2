@@ -153,6 +153,25 @@
             }
         },
         {
+            "Key": "61393fa3-c5f7-454c-9327-f60c6d30c45d",
+            "Value": {
+                "id": "95a57629-e883-4b86-9d91-3b59bf946cac",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/object_enemy\/object_enemy.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "6ca2d37e-a344-478a-8439-a07c4153f266",
             "Value": {
                 "id": "e4e9355e-af2f-4e0a-9771-6407723d9ef2",
@@ -435,6 +454,25 @@
                 ],
                 "resourcePath": "options\/mac\/options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f5712310-cb2d-4cd5-9a74-4fc9663084b3",
+            "Value": {
+                "id": "48ac967c-daf9-4e2b-b3be-bc329770f4a9",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sprite_enemy\/sprite_enemy.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
