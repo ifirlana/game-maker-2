@@ -1,38 +1,28 @@
 {
-    "id": "61393fa3-c5f7-454c-9327-f60c6d30c45d",
+    "id": "86b4093f-3bf0-4c26-9998-5c19d8718f61",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "object_enemy",
+    "name": "object_score",
     "eventList": [
         {
-            "id": "4d158892-07cf-4ce1-8b95-f1b1e013eadd",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "61393fa3-c5f7-454c-9327-f60c6d30c45d"
-        },
-        {
-            "id": "7e9fa8ec-85b2-46e4-9ec6-a4322903f87b",
+            "id": "c2df1a96-04e8-4e02-9ef6-e62c288105c4",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "61393fa3-c5f7-454c-9327-f60c6d30c45d"
+            "eventtype": 0,
+            "m_owner": "86b4093f-3bf0-4c26-9998-5c19d8718f61"
         },
         {
-            "id": "2e733599-7658-4a22-98ba-583dc7613cb5",
+            "id": "a609dde7-26c1-4081-ae37-e0ac1b1ebe6b",
             "modelName": "GMEvent",
             "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "150fa80e-d285-46d0-808b-136d3016c34e",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
-            "eventtype": 4,
-            "m_owner": "61393fa3-c5f7-454c-9327-f60c6d30c45d"
+            "eventtype": 8,
+            "m_owner": "86b4093f-3bf0-4c26-9998-5c19d8718f61"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -51,6 +41,6 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "solid": false,
-    "spriteId": "f5712310-cb2d-4cd5-9a74-4fc9663084b3",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }

@@ -267,6 +267,25 @@
             }
         },
         {
+            "Key": "86b4093f-3bf0-4c26-9998-5c19d8718f61",
+            "Value": {
+                "id": "1ec991f3-36dc-4046-b16f-09b890698bce",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/object_score\/object_score.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "8844b58b-41a9-4b81-9b23-930986bf946d",
             "Value": {
                 "id": "cf3dee1a-9dfa-451e-98f2-8288d617a15b",
@@ -378,6 +397,25 @@
                 ],
                 "resourcePath": "views\/9f333925-eae4-43e3-b8bd-7c9be5c4ecbb.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "aca3e3ad-9695-40bb-8a35-adde763ff4ca",
+            "Value": {
+                "id": "dc3a478a-069e-4a27-9066-e2b941553c9f",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "fonts\/fnt_score\/fnt_score.yy",
+                "resourceType": "GMFont"
             }
         },
         {
